@@ -1,1 +1,1 @@
-my first readme
+precious is a nice friend
